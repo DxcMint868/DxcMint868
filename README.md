@@ -2,8 +2,8 @@
 
 [info] **Experiences:**  
 
-[info] > Hours in **Software Engineering**: ```6,216+```  (avg. 8 hrs/day, 259 days/year)  
-[info] > Hours in **Coding**: ```4,144+``` (avg. 4 hrs/day, 259 days/year)  
+[info] > Hours in **Software Engineering**: ```6,216+```
+[info] > Hours in **Coding**: ```4,144+``` 
 [info] > Domains: Web, Crypto, AI Toolings  
 [info] > Interest: Security, System Arch, Infrastructure
 
