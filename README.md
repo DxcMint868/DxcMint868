@@ -2,10 +2,10 @@
 
 [info] **Experiences:**  
 
-[info] > Hours in **Software Engineering**: ```6,216+```
-[info] > Hours in **Coding**: ```4,144+``` 
+[info] > Hours in **Software Engineering**: ```6,216+```  
+[info] > Hours in **Coding**: ```4,144+```  
 [info] > Domains: Web, Crypto, AI Toolings  
-[info] > Interest: Security, System Arch, Infrastructure
+[info] > Interest: Security, System Arch, Infrastructure  
 
 [debug] Don't believe my stats?  
 [debug] Here's my list of tech terminology over the years  
