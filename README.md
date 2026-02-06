@@ -1,5 +1,5 @@
-**\> Min: Hi, this is Min. Please talk to my agent, I'm in the middle of sth, brb**  
-**\> Min: bot=MinAgent.create().start(language=en, verbose=true, family_friendly=false)**
+**> Min: Hi, this is Min. Please talk to my agent, I'm in the middle of something, brb**  
+**> Min: bot=MinAgent.create().start(language=en, verbose=true, family_friendly=false)**
 
 \> Bot: Hi, this is Min's bot, are you looking for Min?  
 
@@ -11,29 +11,31 @@
 
 [debug] I think the reader would believe in the 10,000 hours rule, I'm showing those stats to boost my owner's credibility  
 [info] > Min's had ```6,216+``` hours in **Software Engineering**  
-[info] > Min's had ```4,144+```  hours in **Coding**  
-[info] > Mins' domain: Web, Crypto, AI Toolings  
-[info] > Min's interest: Security, System Arch, Infrastructure  
+[info] > Min's had ```4,144+``` hours in **Coding**  
+[info] > Min's domain: Web, Crypto, AI Tooling  
+[info] > Min's interests: Security, System Architecture, Infrastructure  
 
 [debug] What if they don't believe the stats?  
 [debug] Maybe I'll show them the list of Min's tech terminology over the years  
-[debug] **Tech Terminology Cheatshet - Curated by MIN**:  
-| Tech  Terminology  (Abbr.) | English                   | Explanation                                                                                                                                                                                      | Vietnamese |
-|----------------------------|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-| DNS                        | Domain Nihilism Service   | We build massive infrastructure to map fake human words to cold machine numbers so we can watch memes and still feel empty                                                                       | Đi Ngủ Sớm |
-| LLM                        | Love Language Malfunction | Comforts you with perfect tone while confidently making things up.                                                                                                                               | Lượm Lá Me |
-| EKS                        | Epstein Kid Servants      | 'They' trusted the 'platform' to take care of them. The 'platform' trusted 'them' to suffer quietly. The 'platform' was sold to 'them' as 'fully managed', but 'they' ended up operating on unpaid devotion | Ếch Kho Singapore           |  
+[debug] **Tech Terminology Cheatsheet - Curated by MIN**:  
+
+| Tech Terminology (Abbr.) | English                   | Explanation                                                                                                                                                                                       | Vietnamese         |
+|--------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| DNS                      | Domain Nihilism Service   | We build massive infrastructure to map fake human words to cold machine numbers so we can watch memes and still feel empty                                                                        | Đi Ngủ Sớm          |
+| LLM                      | Love Language Malfunction | Comforts you with perfect tone while confidently making things up.                                                                                                                                | Lượm Lá Me          |
+| EKS                      | Epstein Kid Servants      | 'They' trusted the 'platform' to take care of them. The 'platform' trusted 'them' to suffer quietly. The 'platform' was sold as 'fully managed', but 'they' ended up operating on unpaid devotion | Ếch Kho Singapore   |  
 
 
 
-**\> Min: Tf dude? I've only been away for 30 seconds, and you're leaking my private info?**  
+**> Min: Tf dude? I've only been away for 30 seconds, and you're leaking my private info?**  
 
-**\> Min: I told you 1000 times not to show any of these private documents to the public. I even stated in the system prompt and created an agent skill to WARN you not to fking leak any of those info, not even in the goddamn log. If you had read my instruction, you shouldn't have had a slight intention about getting those info from the db. Are you fking insane? Was the person who programmed you incompetent enough to make the AI model not fking grasp any point in the sys prompt though they've appeared 10,000 times?**  
+**> Min: I told you 1000 times not to show any of these private documents to the public. I even stated in the system prompt and created an agent skill to WARN you not to fking leak any of that info, not even in the goddamn log. If you had read my instruction, you shouldn't have had the slightest intention of getting that info from the DB. Are you fking insane? Was the person who programmed you incompetent enough to make the AI model not grasp any point in the system prompt even though it appeared 10,000 times?**  
 
 \> Bot: I'm really sorry. I apologize for overlooking your custom instruction. I had completely screwed up by exposing your confidential info to the reader. Here's my recommended mitigation strategy for this situation: ...(generating)    
 
-**\> Min: bot.kill(force_quit=true, keep_history=false)**  
-**\> Min: log.clear()**  
+**> Min: bot.kill(force_quit=true, keep_history=false)**  
+**> Min: log.clear()**  
 \> System: Unknown command log.clear()  
-**\> Min: How do I clear the goddamn log @bot**  
-**\> Min: fuk, I already killed that stupid AI**  
+
+**> Min: How do I clear the goddamn log @bot???**  
+**> Min: fuk, I already killed that stupid AI**
