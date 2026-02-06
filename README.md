@@ -23,7 +23,10 @@
 |--------------------------|---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
 | DNS                      | Domain Nihilism Service   | We build massive infrastructure to map fake human words to cold machine numbers so we can watch memes and still feel empty                                                                        | Đi Ngủ Sớm          |
 | LLM                      | Love Language Malfunction | Comforts you with perfect tone while confidently making things up.                                                                                                                                | Lượm Lá Me          |
-| EKS                      | Epstein Kid Servants      | 'They' trusted the 'platform' to take care of them. The 'platform' trusted 'them' to suffer quietly. The 'platform' was sold as 'fully managed', but 'they' ended up operating on unpaid devotion | Ếch Kho Singapore   |  
+| EKS                      | Epstein Kid Servants      | 'They' trusted the 'platform' to take care of them. The 'platform' trusted 'them' to suffer quietly. The 'platform' was sold as 'fully managed', but 'they' ended up operating on unpaid devotion | Ếch Kho Singapore   |
+| CI/CD | Continuous Insanity / Constant Despair | A loop where we automate the process of breaking production so we can feel productive while fixing things we broke 5 minutes ago. | Chửa Ít Có Đau |
+| NFT |  No Future Trends | A revolutionary way to turn electricity into high-resolution JPGs of depressed primates that you can't actually sell back. | Nước Phở Thơm |
+| WASM | Web-based Agony & Sadistic Memories | People missed the complexity of C++ so much that they decided to shove it into a browser tab just to prove they could. | Vợ Anh Say Mèm |
 
 
 
