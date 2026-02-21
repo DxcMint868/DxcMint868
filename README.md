@@ -1,3 +1,5 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=DxcMint868)  
+
 **> Min: Hi, this is Min. Please talk to my agent, I'm in the middle of something, brb**  
 **> Min: bot=MinAgent.create().start(language=en, verbose=true, family_friendly=false)**
 
